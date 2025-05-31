@@ -1,12 +1,14 @@
 
 body {
+  background-color: #aee9f9;
+  font-family: sans-serif;
   text-align: center;
-  background: linear-gradient(to bottom, #aee9f9, #ffffff);
-  font-family: 'Comic Sans MS', cursive, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 canvas {
+  margin: auto;
   display: block;
-  margin: 0 auto;
-  border: 3px solid #555;
-  border-radius: 10px;
+  border: 3px solid #333;
+  border-radius: 12px;
 }
